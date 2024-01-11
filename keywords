@@ -351,3 +351,4 @@ useContext
 useImperativeHandle
 useReducer
 use
+error boundaries
